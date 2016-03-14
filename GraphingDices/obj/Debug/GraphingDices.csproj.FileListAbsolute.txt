@@ -1,0 +1,9 @@
+c:\users\william.montero\documents\visual studio 2015\Projects\GraphingDices\GraphingDices\bin\Debug\GraphingDices.exe.config
+c:\users\william.montero\documents\visual studio 2015\Projects\GraphingDices\GraphingDices\bin\Debug\GraphingDices.exe
+c:\users\william.montero\documents\visual studio 2015\Projects\GraphingDices\GraphingDices\bin\Debug\GraphingDices.pdb
+c:\users\william.montero\documents\visual studio 2015\Projects\GraphingDices\GraphingDices\obj\Debug\GraphingDices.csprojResolveAssemblyReference.cache
+c:\users\william.montero\documents\visual studio 2015\Projects\GraphingDices\GraphingDices\obj\Debug\GraphingDices.Form1.resources
+c:\users\william.montero\documents\visual studio 2015\Projects\GraphingDices\GraphingDices\obj\Debug\GraphingDices.Properties.Resources.resources
+c:\users\william.montero\documents\visual studio 2015\Projects\GraphingDices\GraphingDices\obj\Debug\GraphingDices.csproj.GenerateResource.Cache
+c:\users\william.montero\documents\visual studio 2015\Projects\GraphingDices\GraphingDices\obj\Debug\GraphingDices.exe
+c:\users\william.montero\documents\visual studio 2015\Projects\GraphingDices\GraphingDices\obj\Debug\GraphingDices.pdb
